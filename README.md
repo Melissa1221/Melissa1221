@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PAM Acecom**
 
-- 🌱 I’m currently learning **Node.js, D3**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **startups' design**
 
