@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melissa Iman Noriega</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 🔭 I’m currently working on **PAM Acecom**
+- 🔭 I’m currently working on **ConsultaYa** and **CepreSmart**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **startups' design**
 
