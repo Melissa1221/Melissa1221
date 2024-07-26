@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 🔭 I’m currently working on **Skytech**
+- 🔭 I’m currently working on **ICleverly**
 
 - 🌱 I’m currently learning **Remix and Astro**
 
