@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **melissaimannoriega@gmail.com**
 
-- 📄 Know about my experiences [mycv](https://drive.google.com/file/d/1AEiLZezGD5NbdlumwQefd2nVedYGuyD2/view)
+
 
   [![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa1221&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
