@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Junior Software Engineering** at **NTTDATA**
 
-- 🌱 I’m currently learning **Remix and Astro**
+- 🌱 I’m currently learning **NodeJS and LLM integration**
 
 - 👯 I’m looking to collaborate on **Startups, design or web :)**
 
