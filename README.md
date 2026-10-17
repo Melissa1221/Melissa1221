@@ -1,43 +1,42 @@
-<h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="center">Software engineer & Computer Science student from Lima, Peru 🇵🇪</h3>
-
-- 🔭 I'm currently working at **[Cofoundy](https://cofoundy.dev)**, an **AI-native software company**, building web products and AI-powered tools for clients
-
-- 🎓 Studying **Computer Science** at **Universidad Nacional de Ingeniería (UNI)**
-
-- 🧪 My thesis: **automatic web usability evaluation with multimodal AI agents** — synthetic users that simulate visual impairments to find accessibility issues before real people hit them
-
-- 🌱 I'm currently diving into **LLM agents, human-computer interaction and computer graphics**
-
-- 👯 I'm looking to collaborate on **startups, accessibility, design or web :)**
-
-- 👨‍💻 All of my projects are available at [melissaiman.com](https://melissaiman.com/)
-
-- 📫 How to reach me: **melissaimannoriega@gmail.com**
-
-
-
-  [![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melissa1221&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/melissa-iman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melissa-iman-noriega-118a95228/" height="30" width="40" /></a>
-<a href="https://instagram.com/melissa0607_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melissa0607_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:7b2ff7&height=200&section=header&text=Melissa%20Iman%20Noriega&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20Lima%2C%20Peru&descAlignY=58&descSize=18&animation=fadeIn" alt="Melissa Iman Noriega" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://melissaiman.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=FE428E&center=true&vCenter=true&width=560&lines=Building+AI-native+software+at+Cofoundy;Teaching+AI+agents+to+see+like+people+do;CS+student+%40+UNI+%C2%B7+Lima%2C+Peru" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://melissaiman.com/"><img src="https://img.shields.io/badge/Portfolio-melissaiman.com-fe428e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/melissa-iman/"><img src="https://img.shields.io/badge/LinkedIn-Melissa%20Iman-7b2ff7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:melissaimannoriega@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-141321?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+### 👩‍💻 About me
+
+- 🚀 Working at **[Cofoundy](https://cofoundy.dev)**, an **AI-native software company**, building web products and AI-powered tools for clients
+- 🎓 Studying **Computer Science** at **Universidad Nacional de Ingeniería (UNI)**
+- 🧪 Thesis: **automatic web usability evaluation with multimodal AI agents**: synthetic users that simulate visual impairments to find accessibility issues before real people hit them
+- 🌱 Diving into **LLM agents, human-computer interaction and computer graphics**
+- 👯 Up for collaborating on **startups, accessibility, design or web :)**
+
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,tailwind,postgres&theme=dark" alt="Languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,linux,git,figma&theme=dark" alt="Cloud and tools"/>
+</p>
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Melissa1221&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa1221&layout=compact&theme=radical&hide_border=true&bg_color=141321&langs_count=6" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:fe428e&height=110&section=footer" alt="" width="100%"/>
 </p>
