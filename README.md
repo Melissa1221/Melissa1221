@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">Software engineer & Computer Science student from Lima, Peru 🇵🇪</h3>
 
-- 🔭 I’m currently working as **Junior Software Engineering** at **NTTDATA**
+- 🔭 I'm currently working at **[Cofoundy](https://cofoundy.dev)**, an **AI-native software company**, building web products and AI-powered tools for clients
 
-- 🌱 I’m currently learning **NodeJS and LLM integration**
+- 🎓 Studying **Computer Science** at **Universidad Nacional de Ingeniería (UNI)**
 
-- 👯 I’m looking to collaborate on **Startups, design or web :)**
+- 🧪 My thesis: **automatic web usability evaluation with multimodal AI agents** — synthetic users that simulate visual impairments to find accessibility issues before real people hit them
 
-- 👨‍💻 All of my projects are available at [myportfolio](https://portfolio-bay-kappa.vercel.app/#skills)
+- 🌱 I'm currently diving into **LLM agents, human-computer interaction and computer graphics**
 
-- 📫 How to reach me **melissaimannoriega@gmail.com**
+- 👯 I'm looking to collaborate on **startups, accessibility, design or web :)**
+
+- 👨‍💻 All of my projects are available at [melissaiman.com](https://melissaiman.com/)
+
+- 📫 How to reach me: **melissaimannoriega@gmail.com**
 
 
 
@@ -26,6 +30,7 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
